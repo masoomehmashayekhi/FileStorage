@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Layers\FileStorage.Layers.L00.BaseModels\FileStorage.Layers.L00_BaseModels.csproj" />
+    <ProjectReference Include="..\..\Layers\FileStorage.Layers.L03_Services\FileStorage.Layers.L03_Services.csproj" />
+  </ItemGroup>
+
+
+</Project>

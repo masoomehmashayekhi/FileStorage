@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\FileStorage\Shared\FileStorage.Shared.Common\bin\Debug\netcoreapp3.1\FileStorage.Shared.Common.deps.json
+C:\Users\Administrator\source\repos\FileStorage\Shared\FileStorage.Shared.Common\bin\Debug\netcoreapp3.1\FileStorage.Shared.Common.dll
+C:\Users\Administrator\source\repos\FileStorage\Shared\FileStorage.Shared.Common\obj\Debug\netcoreapp3.1\FileStorage.Shared.Common.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FileStorage\Shared\FileStorage.Shared.Common\obj\Debug\netcoreapp3.1\FileStorage.Shared.Common.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FileStorage\Shared\FileStorage.Shared.Common\bin\Debug\netcoreapp3.1\FileStorage.Shared.Common.pdb
+C:\Users\Administrator\source\repos\FileStorage\Shared\FileStorage.Shared.Common\obj\Debug\netcoreapp3.1\FileStorage.Shared.Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FileStorage\Shared\FileStorage.Shared.Common\obj\Debug\netcoreapp3.1\FileStorage.Shared.Common.dll
+C:\Users\Administrator\source\repos\FileStorage\Shared\FileStorage.Shared.Common\obj\Debug\netcoreapp3.1\FileStorage.Shared.Common.pdb
+C:\Users\Administrator\source\repos\FileStorage\Shared\FileStorage.Shared.Common\obj\Debug\netcoreapp3.1\FileStorage.Shared.Common.csprojAssemblyReference.cache

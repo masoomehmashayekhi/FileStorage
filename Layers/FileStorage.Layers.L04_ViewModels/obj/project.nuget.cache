@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "krKeZw90OVoR4J6O696RVm12iHN2sq4f7yNY44M743qV8KgSTDRfWlghew19UyZNjJVSNvicLG4havTuKesRlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\FileStorage\\Layers\\FileStorage.Layers.L04_ViewModels\\FileStorage.Layers.L04_ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

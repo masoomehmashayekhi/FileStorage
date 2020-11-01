@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L04_ViewModels\bin\Debug\netcoreapp3.1\FileStorage.Layers.L04_ViewModels.deps.json
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L04_ViewModels\bin\Debug\netcoreapp3.1\FileStorage.Layers.L04_ViewModels.dll
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L04_ViewModels\bin\Debug\netcoreapp3.1\FileStorage.Layers.L04_ViewModels.pdb
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L04_ViewModels\obj\Debug\netcoreapp3.1\FileStorage.Layers.L04_ViewModels.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L04_ViewModels\obj\Debug\netcoreapp3.1\FileStorage.Layers.L04_ViewModels.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L04_ViewModels\obj\Debug\netcoreapp3.1\FileStorage.Layers.L04_ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L04_ViewModels\obj\Debug\netcoreapp3.1\FileStorage.Layers.L04_ViewModels.dll
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L04_ViewModels\obj\Debug\netcoreapp3.1\FileStorage.Layers.L04_ViewModels.pdb
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L04_ViewModels\obj\Debug\netcoreapp3.1\FileStorage.Layers.L04_ViewModels.csprojAssemblyReference.cache

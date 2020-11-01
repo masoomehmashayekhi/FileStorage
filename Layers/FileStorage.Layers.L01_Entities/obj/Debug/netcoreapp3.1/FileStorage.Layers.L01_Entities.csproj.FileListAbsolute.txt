@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L01_Entities\bin\Debug\netcoreapp3.1\FileStorage.Layers.L00_BaseModels.dll
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L01_Entities\obj\Debug\netcoreapp3.1\FileStorage.Layers.L01_Entities.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L01_Entities\obj\Debug\netcoreapp3.1\FileStorage.Layers.L01_Entities.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L01_Entities\obj\Debug\netcoreapp3.1\FileStorage.Layers.L01_Entities.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L01_Entities\bin\Debug\netcoreapp3.1\FileStorage.Layers.L01_Entities.deps.json
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L01_Entities\bin\Debug\netcoreapp3.1\FileStorage.Layers.L01_Entities.dll
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L01_Entities\bin\Debug\netcoreapp3.1\FileStorage.Layers.L01_Entities.pdb
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L01_Entities\bin\Debug\netcoreapp3.1\FileStorage.Layers.L00_BaseModels.pdb
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L01_Entities\obj\Debug\netcoreapp3.1\FileStorage.Layers.L01_Entities.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L01_Entities\obj\Debug\netcoreapp3.1\FileStorage.Layers.L01_Entities.csproj.CopyComplete
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L01_Entities\obj\Debug\netcoreapp3.1\FileStorage.Layers.L01_Entities.dll
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L01_Entities\obj\Debug\netcoreapp3.1\FileStorage.Layers.L01_Entities.pdb
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L01_Entities\bin\Debug\netcoreapp3.1\FileStorage.Shared.Common.dll
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L01_Entities\bin\Debug\netcoreapp3.1\FileStorage.Shared.Common.pdb

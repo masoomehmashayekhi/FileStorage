@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L00.BaseModels\bin\Debug\netcoreapp3.1\FileStorage.Layers.L00_BaseModels.deps.json
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L00.BaseModels\bin\Debug\netcoreapp3.1\FileStorage.Layers.L00_BaseModels.dll
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L00.BaseModels\bin\Debug\netcoreapp3.1\FileStorage.Layers.L00_BaseModels.pdb
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L00.BaseModels\obj\Debug\netcoreapp3.1\FileStorage.Layers.L00_BaseModels.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L00.BaseModels\obj\Debug\netcoreapp3.1\FileStorage.Layers.L00_BaseModels.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L00.BaseModels\obj\Debug\netcoreapp3.1\FileStorage.Layers.L00_BaseModels.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L00.BaseModels\obj\Debug\netcoreapp3.1\FileStorage.Layers.L00_BaseModels.dll
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L00.BaseModels\obj\Debug\netcoreapp3.1\FileStorage.Layers.L00_BaseModels.pdb
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L00.BaseModels\bin\Debug\netcoreapp3.1\FileStorage.Shared.Common.dll
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L00.BaseModels\bin\Debug\netcoreapp3.1\FileStorage.Shared.Common.pdb
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L00.BaseModels\obj\Debug\netcoreapp3.1\FileStorage.Layers.L00_BaseModels.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\FileStorage\Layers\FileStorage.Layers.L00.BaseModels\obj\Debug\netcoreapp3.1\FileStorage.Layers.L00_BaseModels.csproj.CopyComplete
